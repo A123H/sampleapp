@@ -1,2 +1,2 @@
-#Sample App
+#SampleApp
 This is sample app
